@@ -1,0 +1,5 @@
+import(MASS)
+S3method(print, acovamcmc)
+S3method(summary, acovamcmc)
+S3method(plot, acovamcmc)
+export(acovamcmc, plot.acovamcmc, print.acovamcmc, summary.acovamcmc)

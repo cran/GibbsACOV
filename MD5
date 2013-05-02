@@ -1,0 +1,15 @@
+eb7e3e25ce85618a61868a6e8f733a08 *DESCRIPTION
+2a7ebc6247744b23c20a4c447f43d26f *NAMESPACE
+9051dedfc4f236cd9f2891baf461bcb9 *R/acovamcmc.R
+3f8bf5adaabf1e4e558eda751d792e46 *R/plot.acovamcmc.R
+78c9e79c488e00e081cf8b9fad90cb27 *R/print.acovamcmc.R
+a2fcc55442c62f0d7226f0e7f8c3413c *R/summary.acovamcmc.R
+6ace02963517f63a9778fd66cfc93683 *data/corn.rda
+d59e66bcc22a2b8a82390defa358b607 *data/csection.rda
+14880c31abe506ea0845e571ca79e78a *man/GibbsACOV-package.Rd
+ebdb953c45e63e5e5e6d91d28e116e26 *man/acovamcmc.Rd
+db3cb412cb7b86b158fa97790a9970d5 *man/corn.Rd
+e3a170404c2902c33d6877b2c53cf280 *man/csection.Rd
+796377294b04297e1168177188925956 *man/plot.acovamcmc.Rd
+f8774e1b715d7f780102f24e619124ac *man/print.acovamcmc.Rd
+9b6e71bf88ffb3665dfe95755a12795f *man/summary.acovamcmc.Rd
