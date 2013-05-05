@@ -16,9 +16,9 @@ plot.acovamcmc <- function(x, ...){
   nbetas = nrow(x$Credible_Interval)-2
   dev.new()
   par(mfrow=c(nbetas,1))
-  result$beta=as.matrix(result$beta)
+  x$beta=as.matrix(x$beta)
   for(i in 1:nbetas){
-    acf(result$beta[,i],main=paste("Series of Beta", i))
+    acf(x$beta[,i],main=paste("Series of Beta", i))
   }
   
   #beta plots if nbeta = 2

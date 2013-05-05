@@ -12,8 +12,8 @@ Gibbs sampler for one-way linear mixed-effects models (ANOVA, ANCOVA) with homos
 \tabular{ll}{
 Package: \tab GibbsACOV\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-05-02\cr
+Version: \tab 1.1\cr
+Date: \tab 2013-05-05\cr
 License: \tab GPL (>= 2)\cr
 }
 ~~ An overview of how to use the package, including the most important functions ~~

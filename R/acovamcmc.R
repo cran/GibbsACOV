@@ -110,7 +110,7 @@ acovamcmc <- function(Y,trt,X,nochn,numIter,initval,credint=0.95,Rthresh=1.1){
     namesCI[[l]]=paste("beta",l)
   }
   namesCI[[nbetas+1]]="sigma_a^2"
-  namesCI[[nbetas+2]]="sigma_a^2"
+  namesCI[[nbetas+2]]="sigma_e^2"
   rownames(CI)=namesCI
  
   #Gelman-Rubin diag
